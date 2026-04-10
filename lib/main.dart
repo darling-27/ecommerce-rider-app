@@ -5,7 +5,8 @@ import 'package:rider_app/services/fcm_service.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  
+  // rider update
+  // rider update
   // Initialize Firebase
   await Firebase.initializeApp();
   
